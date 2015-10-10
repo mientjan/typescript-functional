@@ -6,7 +6,7 @@
     "Mient - jan Stelling <mient-jan@mediamonks.com>"
   ],
   "description": "A collection of typescript decorators.",
-  "main": "src/Functional.ts",
+  "main": ["src/Functional.ts"],
   "moduleType": [
     "amd"
   ],
